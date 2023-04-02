@@ -1,0 +1,36 @@
+/* Tag selection */
+h1
+{
+    color:red;
+    font-size: 5rem;
+
+}
+/* img{
+    background-color:red;
+    align-items: right;
+} */
+body
+{
+    background-color: antiquewhite;
+}
+
+/* class selector */
+.bacon
+{
+    background-color: red;
+    display: inline-block;
+}
+
+.brocli
+{
+    background-color: green;
+}
+
+/* id selector */
+#heading
+{
+    color:blue;
+    font-size: xx-large;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    ;
+}
