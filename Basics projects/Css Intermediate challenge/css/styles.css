@@ -1,0 +1,29 @@
+body,h1
+{
+    margin:0em;
+}
+
+.about
+{
+    background-color:#F6F1E9;
+    border: solid 10px;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+}
+.middle-container
+{
+    height:200px;
+    width: 200px;
+    border:20px solid;
+    margin-left: 260px;
+    background-color: red;
+}
+.lower-container
+{
+    height:200px;
+    width:200px;
+    border:10px solid;
+    margin-left:500px;
+    background-color: blue;
+}

@@ -1,0 +1,33 @@
+body
+{
+    margin:0em;
+}
+h1,p
+{
+    text-align: center;
+}
+span
+{
+    text-decoration: underline;
+}
+.about
+{
+    background-color:#F6F1E9;
+    border: 10px;
+}
+.right-cloud
+{
+    display: block;
+    padding-left:30em ;
+}
+
+.left-cloud
+{
+    display:block;
+    padding-left: 60em ;
+}
+.mountains
+{
+    display: block;
+    align-items: center;
+}
